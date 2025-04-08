@@ -8,8 +8,8 @@ Below is a high level overview of the repository:
 - Data cleaning/ a folder containing jupyter notebooks for cleaning and manipulating all of the datasets used in our models. 
 - Modeling/ a folder containing jupyter notebooks for constructing models that predict water level changes in wells. 
 - Visualizations/ a folder containing jupyter notebooks for construction of the visuzalizations found in the project report
--LICENSE: a license stating the allowed use of the elements of this repository
--requirements.txt: the software package requirements for running the code in this repository
+- LICENSE: a license stating the allowed use of the elements of this repository
+- requirements.txt: the software package requirements for running the code in this repository
 
 
 
