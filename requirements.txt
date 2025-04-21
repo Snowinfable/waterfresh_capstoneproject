@@ -1,0 +1,16 @@
+pandas 2.1.4
+numpy 1.24.3
+sklearn 1.2.2
+pytorch 2.4.1
+seaborn 0.13.2
+matplotlib 3.7.1
+requests 2.32.3
+addfips 0.4.2
+geopandas 1.0.1
+geoplot 0.5.1
+mapclassify 2.8.1
+arcgis 2.4.0
+rasterio 1.4.3
+shapely 2.0.7
+pyproj 3.7.1
+
