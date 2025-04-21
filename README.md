@@ -5,7 +5,7 @@ This repository is related to the UMSI - MADS capstone project from Matthew Pare
 ## License
 This project is for Academic and Research Purposes. Data sourced for the project is described in the data access statement below.
 
-## Data Acess Statement
+## Data Access Statement
 Data accessed for the project comes in the form of USGS data releases and API access to NOAA data.
 - The NOAA Climate Data is provided by the NOAA National Centers for Environmental Information. For the project, we accessed it through API calls. It can be accessed through the bulk download link at this website: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/mapping
 - The USGS Water Use data originates from the U.S. Geological Survey Circular, a series of reports published by the USGS. The data can be accessed through this link: https://water.usgs.gov/watuse/data/
