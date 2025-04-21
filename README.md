@@ -58,11 +58,12 @@ After you have cleaned the data, the 'merge_data' folder should contain these fo
 Once these files are in the 'merge_data' folder, you will then be able to run the 'Merge Datasets' notebook. This brings all of the input and target data together into one csv, which will be exported as 'final_without_totals.csv'.
 
 # 3. Run the modeling and visualizations notebooks
-Now you will be able to run two notebooks:
+Now you will be able to run the three following notebooks:
 - Introductory Visualizations.ipynb
 - Random Forest Regressor Model and Visuals.ipynb
+- ANN Training.ipynb
 
-These notebooks will produce the random forest regressor results and various visualizations seen in the report. Note, you will also need the file 'usco2015v2.0.csv' detailed above to run the introductory visualizations notebook.
+These notebooks will produce the random forest regressor results and various visualizations from the report. The ANN is briefly mentioned in the report, but we focused on the random forest regressor as it performed better. Note, you will also need the file 'usco2015v2.0.csv' detailed above to run the introductory visualizations notebook.
 
 
 
