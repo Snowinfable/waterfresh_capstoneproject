@@ -42,7 +42,7 @@ You will need to download four files to run this notebook. You can access the fi
 You will need to upload GeoTIFF files to the 'monthly_ets' folder in the project_code_data folder. You can access the GeoTIFFS here: https://www.sciencebase.gov/catalog/item/64135576d34eb496d1ce3d2e. You will need to add all of the GeoTIFFs for every month in these two zipfiles: AET_2000_2009_monthly.zip and AET_2010_2018_monthly.zip. You will need to place the GeoTIFF files from these zipfiles in the 'monthly_ets' folder. The GeoTIFFs are in the form AET_year_month.tif.
 
 #### For the "Data Cleaning - Climate" notebook:
-The data is access through an API, so you do not need to download any data for this. Make sure to check the note in the notebook, as the name of the url for the API call is updated periodically (possibly monthly).
+The data is accessed through an API, so you do not need to download any data for this. Make sure to check the note in the notebook, as the name of the url for the API call is updated periodically (possibly monthly).
 
 # 2. Running the data prep notebooks
 After you have uploaded the data to the appropriate locations, you will then be able to run the notebook. First, you will want to run the the "Data Cleaning" notebooks. They can be run in any order, except you will need to run the "Data Cleaning - Water Level Trends" notebook and produce the file 'trends_clean.csv' before you run the "Data Cleaning - Evapotranspiration" notebook. 
