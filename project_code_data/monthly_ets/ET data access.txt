@@ -1,5 +1,5 @@
 You will need to add all of the GeoTIFFs from the  Historical Evapotranspiration for the Conterminous U.S. data release. Between 2000 and 2018. Download the zipfiles: AET_2000_2009_monthly.zip and AET_2010_2018_monthly.zip
 
-You will need to place the geoTIFF files from these zipfiles in this folder. The GeoTIFFs are in the form AET_2010_01.tif.
+You will need to place the geoTIFF files from these zipfiles for every month in this folder. The GeoTIFFs are in the form AET_2010_01.tif.
 
 Find them at this link: https://www.sciencebase.gov/catalog/item/64135576d34eb496d1ce3d2e
