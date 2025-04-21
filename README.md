@@ -52,7 +52,7 @@ Now you will be able to run two notebooks:
 - Introductory Visualizations.ipynb
 - Random Forest Regressor Model and Visuals.ipynb
 
-These notebooks will produce the random forest regressor results and various visualizations seen in the report.
+These notebooks will produce the random forest regressor results and various visualizations seen in the report. Note, you will also need the file 'usco2015v2.0.csv' detailed above to run the introductory visualizations notebook.
 
 
 
