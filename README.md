@@ -23,7 +23,7 @@ Data accessed for the project comes in the form of USGS data releases and API ac
 Follow the following steps to obtain the necessary data and run the notebooks to replicate the report.
 
 # 1. Data Retrieval and upload
-To reproduce the results from the following code you will need to download some data and run the notebooks in the project_code_data folder in a specific order. The four "data cleaning" files will require data to be uploaded to the project_code_data folder containing these notebooks (except for one exception, for which you will upload the data into a folder instide project_code_data). 
+To reproduce the results from the following code you will need to download some data and run the notebooks in the project_code_data folder in a specific order. The four "data cleaning" files will require data to be uploaded to the project_code_data folder containing these notebooks (except for one exception, for which you will upload the data into a folder inside project_code_data). 
 
 
 #### For the "Data Cleaning - Water Use" notebook:
