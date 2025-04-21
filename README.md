@@ -12,8 +12,6 @@ Data accessed for the project comes in the form of USGS data releases and API ac
 - The USGS Water Level Trends data was published in a USGS data release by the USGS Water Resources Mission Area and the USGS Nebraska Water Science Center. The data can be accessed at this link: https://www.sciencebase.gov/catalog/item/650b31f8d34e823a02735c0b
 - The USGS Historical Evapotranspiration data was published in a USGS data release by the USGS Observing Systems Division. It can be accessed at this link: https://www.sciencebase.gov/catalog/item/64135576d34eb496d1ce3d2e
 
-## The report can be accessed here: 
-
 ## Below is a high level overview of the repository:
 - project_code_data/ a folder containing datasets and notebooks necessary to produce the results from the report.
 - requirements.txt: the software package requirements for running the code in this repository
