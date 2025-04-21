@@ -55,7 +55,7 @@ After you have cleaned the data, the 'merge_data' folder should contain these fo
 - et_cleaned.csv
 - climate_all_data_clean.csv
 
-Once these files are in the 'merge_data' folder, you will then be able to run the 'Merge Datasets' notebook. This brings all of the input and target data together into one csv, which will be exported as 'final_without_totals_visuals.csv'.
+Once these files are in the 'merge_data' folder, you will then be able to run the 'Merge Datasets' notebook. This brings all of the input and target data together into one csv, which will be exported as 'final_without_totals.csv'.
 
 # 3. Run the modeling and visualizations notebooks
 Now you will be able to run two notebooks:
