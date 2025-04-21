@@ -7,7 +7,7 @@ This project is for Academic and Research Purposes. Data sourced for the project
 
 ## Data Acess Statement
 Data accessed for the project comes in the form of USGS data releases and API access to NOAA data.
-- The NOAA Climate Data is provided by the NOAA National Centers for Environmental Information, and can be accessed through the bulk download link at this website: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/mapping
+- The NOAA Climate Data is provided by the NOAA National Centers for Environmental Information. For the project, we accessed it through API calls. It can be accessed through the bulk download link at this website: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/mapping
 - The USGS Water Use data originates from the U.S. Geological Survey Circular, a series of reports published by the USGS. The data can be accessed through this link: https://water.usgs.gov/watuse/data/
 - The USGS Water Level Trends data was published in a USGS data release by the USGS Water Resources Mission Area and the USGS Nebraska Water Science Center. The data can be accessed at this link: https://www.sciencebase.gov/catalog/item/650b31f8d34e823a02735c0b
 - The USGS Historical Evapotranspiration data was published in a USGS data release by the USGS Observing Systems Division. It can be accessed at this link: https://www.sciencebase.gov/catalog/item/64135576d34eb496d1ce3d2e
