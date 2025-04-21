@@ -4,7 +4,7 @@ This repository is related to the UMSI - MADS capstone project from Matthew Pare
 
 
 ### Below is a high level overview of the repository:
-- project_code_data/ a folder containing datasets in csv and tsv format, as well as information on how to access other data via API calls. The 'Water Trends' folder contains water level change data in wells around the US, the 'Water Use' folder contains USGS water usage data for all US counties, then the 'access-climate-data.txt' and 'access-evapotranspiration-data.txt' files contain instructions/urls on how to access the climate and evapotranspiration data. 
+- project_code_data/ a folder containing datasets and notebooks necessary to produce the results from the report.
 - requirements.txt: the software package requirements for running the code in this repository
 - README.md: this file that explains how to use the github repository
 - Data Access Statement
