@@ -2,6 +2,8 @@
 
 This repository is related to the UMSI - MADS capstone project from Matthew Parent and Shiyi Song, analyzing the change in water levels in groundwater wells throughout the United States. The project analyzes current trends in groundwater-related issues facing the United States, and attempts to create a model the can predict future water level changes based a variety of water use and other environmental data.
 
+License
+This project is for Academic and Research Purposes. Data sourced for the project is described in the data access statement below.
 
 ### Below is a high level overview of the repository:
 - project_code_data/ a folder containing datasets and notebooks necessary to produce the results from the report.
