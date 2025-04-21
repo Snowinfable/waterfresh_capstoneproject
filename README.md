@@ -12,7 +12,7 @@ Data accessed for the project comes in the form of USGS data releases and API ac
 - The USGS Water Level Trends data was published in a USGS data release by the USGS Water Resources Mission Area and the USGS Nebraska Water Science Center. The data can be accessed at this link: https://www.sciencebase.gov/catalog/item/650b31f8d34e823a02735c0b
 - The USGS Historical Evapotranspiration data was published in a USGS data release by the USGS Observing Systems Division. It can be accessed at this link: https://www.sciencebase.gov/catalog/item/64135576d34eb496d1ce3d2e
 
-
+# The report can be accessed here: 
 
 ### Below is a high level overview of the repository:
 - project_code_data/ a folder containing datasets and notebooks necessary to produce the results from the report.
@@ -63,7 +63,10 @@ Now you will be able to run the three following notebooks:
 - Random Forest Regressor Model and Visuals.ipynb
 - ANN Training.ipynb
 
-These notebooks will produce the random forest regressor results and various visualizations from the report. The ANN is briefly mentioned in the report, but we focused on the random forest regressor as it performed better. Note, you will also need the file 'usco2015v2.0.csv' detailed above to run the introductory visualizations notebook.
+These notebooks will produce the random forest regressor results, Artificial Neural Network results, and various visualizations from the report. The ANN is briefly mentioned in the report -- we focused on the random forest regressor as it performed better. Note, you will also need the file 'usco2015v2.0.csv' detailed above to run the introductory visualizations notebook.
+
+
+
 
 
 
